@@ -33,13 +33,9 @@ public class FastPong extends Game {
         draw();
     }
 
-    private void input() {
+    private void input() {}
 
-    }
-
-    private void logic() {
-
-    }
+    private void logic() {}
 
     private void draw() {
         ScreenUtils.clear(Color.BLACK);
